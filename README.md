@@ -1,1 +1,1 @@
-# day-1-assignment-java-program
+# week-1-assignment-java-program
